@@ -1,8 +1,8 @@
 {
-  "homepage": "http://localhost/dist/",
-  "name": "tarjeta002",
+  "homepage": "https://chelo67.github.io/tarjeta-002a/",
+  "name": "tarjeta002a",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
